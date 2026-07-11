@@ -9,3 +9,5 @@
 [2024](https://github.com/stephen-cheng/booklist/tree/main/2024)
 
 [2025](https://github.com/stephen-cheng/booklist/tree/main/2025)
+
+[2026](https://github.com/stephen-cheng/booklist/tree/main/2026)

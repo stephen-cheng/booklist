@@ -11,3 +11,9 @@
 9. Whenever you are discussing emotionally charged matters, let the speaker finish completely before you jump in.
 10. Excellence is not a single and solitary action. It is the outcome of many years of making small smooth moves.
 11. Repeating an action makes a habit. Your habits create your character. And your character is your destiny.
+
+[Guns, Germs and Steel - The Fates of Human Societies](https://github.com/stephen-cheng/booklist/blob/main/2026/Guns%2C%20Germs%20and%20Steel%20-%20The%20Fates%20of%20Human%20Societies.pdf)
+
+1. Knowledge brings power.
+2. Invention is the mother of necessity.
+3. Technology develops fastest in large productive regions with large human populations, many potential investors, and many competing societies.
